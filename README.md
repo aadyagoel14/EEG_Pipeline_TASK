@@ -51,7 +51,7 @@ BSR.
 
 ### What I'd explore next
 
-1. **LSTM / GRU** — capture induction → maintenance → emergence state transitions 
+1. **LSTM / GRU** — capture induction to maintenance to emergence state transitions 
    that RF treats as independent epochs
 2. **Per-patient z-score normalisation** — EEG amplitude varies 5–10× between 
    patients; within-patient normalisation would reduce inter-subject variance
