@@ -2,8 +2,14 @@
 Build an ML pipeline to predict BIS (Bispectral Index) scores from raw EEG, and implement the open-source BIS algorithm.
 
 ## Instructions to run code:
-1. Download jupyter notebook from github repo and the dataset. 
-2. run.
+1. Clone or download the GitHub repository that contains the Jupyter notebook.
+2. Download the dataset and place it in the project directory.
+3. Open the notebook:
+```bash
+jupyter notebook
+```
+4. Open the provided notebook file and run all cells from top to bottom.
+No additional configuration is required, as the notebook loads all files directly from the `data/` folder.
 
 ## Approach:
 
