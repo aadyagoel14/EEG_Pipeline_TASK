@@ -1,11 +1,11 @@
-# EEG_Pipeline
+# EEG_Pipeline_TASK
 
 Build an ML pipeline to predict BIS (Bispectral Index) scores from raw EEG, and implement the open-source BIS algorithm.
 
 ## Instructions to run code:
 
 1. Clone or download the GitHub repository that contains the Jupyter notebook.
-2. Download the dataset and place it in the project directory.
+2. Download the dataset and place it in the project directory named "data".
 3. Open the notebook:
 
 ```bash
