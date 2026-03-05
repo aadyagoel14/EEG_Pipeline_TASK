@@ -5,8 +5,9 @@ Build an ML pipeline to predict BIS (Bispectral Index) scores from raw EEG, and 
 ## Instructions to run code:
 
 1. Clone or download the GitHub repository that contains the Jupyter notebook.
-2. Download the dataset and place it in the project directory named "data".
-3. Open the notebook:
+2. Install dependencies.
+3. Download the dataset and place it in the project directory named "data".
+4. Open the notebook:
 
 ```bash
 jupyter notebook
