@@ -1,4 +1,4 @@
-# EEG_Pipeline_TASK
+# EEG_Pipeline
 
 Build an ML pipeline to predict BIS (Bispectral Index) scores from raw EEG, and implement the open-source BIS algorithm.
 
